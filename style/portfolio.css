@@ -46,6 +46,9 @@ nav ul li{
   text-align: center;
   margin:20px 20px 20px 20px;
   gap: 10px;
+  padding: 10px 10px ;
+  
+
 }
 .action-profile-pic{
   width: 220px;
@@ -58,7 +61,67 @@ nav ul li{
   display: flex;
   justify-content: space-between;
   margin: 130px 30px 20px 100px;
+  border-radius: 10px;
+  background-color:white;
 }
 .action-content{
-  max-width: 580px;
+  max-width: 680px;
 }
+.bannerr{
+ justify-content: center;
+  text-align: center;
+  margin:20px 20px 20px 20px;
+  gap: 5px;
+  padding: 250px 10px;
+  margin-top: 130px;
+  background-color:;
+}
+.asadul-item{
+  display: flex;
+  justify-content: space-around;
+
+}
+.item-description{
+  font-size: 20px;
+}
+
+
+.item-title{
+  font-weight: 800;
+  font-size: 60px;
+  color: blue;
+}
+
+.class-asad{
+  display: flex;
+  gap: 200px;
+  width: 50%;
+  text-align: center;
+  font-size: 30px;
+    justify-content: space-around;
+    /* background-color: antiquewhite; */
+  
+}
+.sub{
+  background-color: blue;
+  width: 120px;
+  height: 45px;
+}
+.name{
+  background-color: white;
+  width: 350px;
+  height: 60px;
+  justify-content: space-between;
+}
+
+.foot{
+  text-align: center;
+  color:black;
+
+ 
+}
+
+
+
+
+
